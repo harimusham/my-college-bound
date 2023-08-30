@@ -5,13 +5,13 @@ JOBS=[
     'id':1,
     'title':'froent-end engineer',
     'location':'hyderabad',
-    'salary':120000
+    'salary':1999000
   },
   {
     'id':2,
     'title':'backend developer',
     'location':'benguluru',
-    'salary':900000
+    'salary':888900000
   },
   {
    'id':3,
